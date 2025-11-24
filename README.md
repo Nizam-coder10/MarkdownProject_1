@@ -4,11 +4,13 @@ Aquest és un petit projecte fet amb Git on poso en pràctica les funcions bàsi
 
 ## Table of Contents
 
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
 
 ## Introduction
 Git és un sistema de control de versions ràpid, escalable i distribuït, amb moltes eines tant simples com avançades.  
