@@ -16,6 +16,9 @@ Aquest és un petit projecte fet amb Git on poso en pràctica les funcions bàsi
 Git és un sistema de control de versions ràpid, escalable i distribuït, amb moltes eines tant simples com avançades.  
 Per més informació, pots mirar la [Documentació de Git](https://git-scm.com/docs/git).
 
+![Project Logo](images/logo.png)
+
+
 ## Features
 Si entens què és Git i els seus conceptes bàsics, tot et serà molt més fàcil a l’hora de treballar amb repositoris.
 
