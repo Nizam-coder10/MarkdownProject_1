@@ -1,0 +1,82 @@
+commit 9cc693267a4c0a4e1f25b44f6bb631ee2de15573
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 25 17:02:53 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 5568eddcdfceea38971e6073308648e9e23d5f9d
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 25 16:53:02 2025 +0100
+
+    Enchance README with formatting
+
+ README.md | 25 ++++++++++++++++++++-----
+ 1 file changed, 20 insertions(+), 5 deletions(-)
+
+commit e94d66c21cb0ea6e9108e08a1ca7c1df24b96a98
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 25 16:29:38 2025 +0100
+
+    Add feature list table to README
+
+ README.md         |  10 ++++++++--
+ images/codigo.jpg | Bin 196855 -> 635655 bytes
+ 2 files changed, 8 insertions(+), 2 deletions(-)
+
+commit 0287c61cdf85ac2501a03283cbbae51395ceb31f
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Tue Nov 25 14:37:18 2025 +0100
+
+    Add project logo to README
+
+ README.md         |   3 +++
+ images/codigo.jpg | Bin 0 -> 196855 bytes
+ 2 files changed, 3 insertions(+)
+
+commit e5831d7b6521c9cb056627332b3974f76d02ba88
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Mon Nov 24 23:55:20 2025 +0100
+
+    Add sections to README
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit f12df540d309883a0a9397886ad6d4abf8b9e377
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Mon Nov 24 23:54:10 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 16 ++++++++++++++--
+ 1 file changed, 14 insertions(+), 2 deletions(-)
+
+commit b10c4124cb2e7ab2b358ac05c06e8cb714cc1df2
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Wed Nov 19 09:26:31 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 52ee86b0ab7e4c8974f5aab75564dfb8870b654c
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Wed Nov 19 09:02:25 2025 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit af67bddb3e6df94aa3b5def1911eed34264926b6
+Author: Nizam <53654350l@iespoblenou.org>
+Date:   Wed Nov 19 08:51:38 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
