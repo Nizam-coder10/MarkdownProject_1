@@ -19,6 +19,7 @@ Per més informació, pots mirar la [Documentació de Git](https://git-scm.com/d
 <img src="images/codigo.jpg" alt="Project Logo" width="300"/>
 
 
+
 ## Features
 En aquesta secció també s'inclouen alguns punts importants com ara **l'ús de comandes bàsiques de Git**, i altres elements que ajuden a entendre millor el projecte.  
 A més, s'ha afegit *formatatge Markdown* per destacar certes parts del text.  
